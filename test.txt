@@ -1,0 +1,8 @@
+THIS IS A NEW LINE.
+clear
+:wq
+:Q
+:Q
+:q
+i
+
